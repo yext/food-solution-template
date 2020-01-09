@@ -1,0 +1,19 @@
+{
+  "$id": "allergens",
+  "$type": "https://schema.yext.cloud/config/km/custom-field",
+  "displayName": "Allergens",
+  "apiName": "c_allergens",
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE",
+  "typeId": "type.list",
+  "type": {
+    "listType": {
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      },
+      "typeId": "type.string"
+    }
+  }
+}

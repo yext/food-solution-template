@@ -1,0 +1,14 @@
+{
+  "$id": "c_relatedMenuItems",
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$type": "https://schema.yext.cloud/config/schema/field",
+  "items": {
+    "format": "ref",
+    "refKey": "https://schema.yext.cloud/fields/yext/entityId",
+    "type": "integer"
+  },
+  "title": "Related Menu Items",
+  "type": "array",
+  "uniqueItems": true,
+  "yext.field_id": "location.custom.3065841.related_menu_items.0"
+}

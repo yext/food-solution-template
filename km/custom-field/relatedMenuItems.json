@@ -1,0 +1,17 @@
+{
+  "$id": "relatedMenuItems",
+  "$type": "https://schema.yext.cloud/config/km/custom-field",
+  "displayName": "Related Menu Items",
+  "apiName": "c_relatedMenuItems",
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE",
+  "typeId": "type.list",
+  "type": {
+    "listType": {
+      "type": {
+        "entityReferenceType": {}
+      },
+      "typeId": "type.entity_reference"
+    }
+  }
+}

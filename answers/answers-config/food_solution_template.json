@@ -1,0 +1,60 @@
+{
+  "$type": "https://schema.yext.cloud/config/answers/answers-config",
+  "name": "Food Solution Template",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "events": {
+      "entityTypes": [
+        "event"
+      ],
+      "keywords": [],
+      "name": "Events",
+      "searchableFields": {},
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "keywords": [],
+      "name": "FAQs",
+      "searchableFields": {},
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "jobs": {
+      "entityTypes": [
+        "job"
+      ],
+      "keywords": [],
+      "name": "Jobs",
+      "searchableFields": {},
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "menu_items": {
+      "entityTypes": [
+        "ce_menuItem"
+      ],
+      "keywords": [],
+      "name": "Menu Item",
+      "searchableFields": {},
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "restaurants": {
+      "entityTypes": [
+        "restaurant"
+      ],
+      "keywords": [],
+      "name": "Restaurants",
+      "searchableFields": {},
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "$id": "food_solution_template"
+}

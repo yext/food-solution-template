@@ -1,0 +1,18 @@
+{
+  "$id": "c_allergens",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Allergens",
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      },
+      "typeId": "yext/string"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "restaurant",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "yext/restaurant",
+  "field": [
+    {
+      "id": "c_relatedLocations",
+      "required": false
+    },
+    {
+      "id": "c_relatedMenuItems",
+      "required": false
+    }
+  ]
+}

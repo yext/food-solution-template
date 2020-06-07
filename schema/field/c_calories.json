@@ -1,8 +1,0 @@
-{
-  "$id": "c_calories",
-  "$schema": "https://json-schema.org/draft/2019-09/schema",
-  "$type": "https://schema.yext.cloud/config/schema/field",
-  "title": "Calories",
-  "type": "string",
-  "yext.field_id": "location.custom.3065841.calories.0"
-}

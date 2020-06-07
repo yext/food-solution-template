@@ -1,0 +1,16 @@
+{
+  "$id": "c_relatedMenuItems",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Related Menu Items",
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "type": {
+        "entityReferenceType": {}
+      },
+      "typeId": "yext/entityReference"
+    }
+  }
+}

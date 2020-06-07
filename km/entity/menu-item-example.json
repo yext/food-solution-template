@@ -1,0 +1,8 @@
+{
+  "$id": "menu-item-example",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "entityType": "ce_menuItem",
+  "content": {
+    "yext/name": "Menu Item Example"
+  }
+}

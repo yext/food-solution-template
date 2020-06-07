@@ -1,0 +1,16 @@
+{
+  "$id": "c_relatedLocations",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Related Locations",
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "type": {
+        "entityReferenceType": {}
+      },
+      "typeId": "yext/entityReference"
+    }
+  }
+}

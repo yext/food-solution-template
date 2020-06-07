@@ -1,0 +1,22 @@
+{
+  "$id": "event-example",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "entityType": "yext/event",
+  "content": {
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "1 Madison Avenue",
+      "postalCode": "10010",
+      "region": "NY"
+    },
+    "yext/linkedLocation": "restaurant-1",
+    "yext/name": "Event Example",
+    "yext/time": {
+      "end": "2023-01-01T14:00",
+      "start": "2023-01-01T11:00"
+    },
+    "yext/timezone": "America/New_York",
+    "yext/venueName": "Restaurant Example"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "$id": "faq-example",
-  "$type": "https://schema.yext.cloud/config/km/sample-entity",
-  "entityType": "faq",
-  "content": {
-    "yext.answer": "This is the Answer",
-    "yext.name": "FAQ Example"
-  }
-}

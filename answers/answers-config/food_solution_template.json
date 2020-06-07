@@ -1,5 +1,5 @@
 {
-  "$type": "https://schema.yext.cloud/config/answers/answers-config",
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
   "name": "Food Solution Template",
   "supportedLocales": [],
   "countryRestrictions": [],

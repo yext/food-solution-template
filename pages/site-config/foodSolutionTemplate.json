@@ -1,6 +1,6 @@
 {
   "$id": "foodSolutionTemplate",
-  "$type": "https://schema.yext.cloud/config/pages/site-config",
+  "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "HostName": "${{foodSolutionTemplate_hostName}}",
   "SiteName": "Food Solution Template",
   "TargetRepoName": "${{foodSolutionTemplate_targetRepo}}",
